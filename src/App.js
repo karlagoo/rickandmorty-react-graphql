@@ -2,6 +2,7 @@
 const App = () => (
   
     <div className="App">
+      <h1>Hello Rick and Morty Fans</h1>
     </div>
   );
 
